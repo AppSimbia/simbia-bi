@@ -107,7 +107,7 @@ DB_PORT=5432
 
 ---
 
-## Autores
-
-- [@MatheusMakita](https://github.com/MatheusMakita)
-- [@Valenaantunes](https://github.com/Valenaantunes)
+## Autores 
+[@Valenaantunes](https://github.com/Valenaantunes)
+## ReadMe 
+[@MatheusMakita](https://github.com/MatheusMakita)
